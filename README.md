@@ -6,7 +6,7 @@
 
 - **[AI Digital Twin](https://d1nkgg6f807gsp.cloudfront.net/)** — a serverless chatbot that represents me on my personal site
 https://github.com/monatguney/ai-twin
-- **[PinCloud](https://pincloud.co)** — a marketplace website where locals sell curated city maps to travelers backed
+- **[PinCloud](https://pincloud.co)** — a marketplace website where locals sell curated city maps to travelers
 https://github.com/DrawnCentipede2/aquaman
 
 ---
